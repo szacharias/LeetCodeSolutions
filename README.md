@@ -1,4 +1,7 @@
-# LeetCodeSolutions
-_Repo to save solved questions from_
-* **Leet Code Questions**
-* **Daily Coding Problems**
+#LeetCode Solutions
+
+Solutions from [LeetCode](https://leetcode.com/)
+
+Questions will be solved in Java or Python
+
+Contact me for anything pertaining to solved questions from Leetcode  :D
