@@ -52,6 +52,8 @@ for (int i = 0; i < len; i++) {
 
 # Results
 
-|Time Submitted |Status | |Runtime | Memory| Language|
+| Time Submitted | Status | Runtime | Memory | Language |
+
 |---|---|---|---|---|
-|a few seconds ago|	Accepted|	50 ms	|41.4 MB	|java|
+
+|a few seconds ago|	Accepted |	50 ms	| 41.4 MB	| java |
