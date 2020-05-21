@@ -20,6 +20,11 @@ public class Main {
 		result = solution.isValid(input);
 		System.out.println("Result " + result);
 		
+
+		input  = "([)]";
+		result = solution.isValid(input);
+		System.out.println("Result " + result);
+		
 	}
 
 }
